@@ -1,0 +1,9 @@
+PyQt6>=6.6.0
+requests>=2.31.0
+
+# Optional:
+markdown>=3.5.0
+Pygments>=2.17.0
+python-docx>=1.1.0
+openpyxl>=3.1.2
+xlrd>=2.0.1
