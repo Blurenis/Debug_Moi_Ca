@@ -1,7 +1,6 @@
-```markdown
-[![DMC - Developer Agent Demo](https://via.placeholder.com/1200x400?text=DMC+-+Developer+Agent+Demo)](https://example.com/demo-video-url)
+![DMC Developer Agent Demo](picture.png)
 
-```text
+```
 ██████╗ ███████╗██████╗ ██╗   ██╗ ██████╗     ███╗   ███╗ ██████╗
 ██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝     ████╗ ████║██╔════╝
 ██║  ██║█████╗  ██████╔╝██║   ██║██║  ███╗    ██╔████╔██║██║     
